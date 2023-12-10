@@ -51,14 +51,15 @@ font-variant: normal;}
         text-decoration: none;}
 .contact-mail:hover{color: #404bbf}
 .contact-mail:focus{color: #404bbf;}
-
+/*--
 .my-head{background-color:#2e2f42;
         
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
         color: #ffffff;}
-.sec-a{background-color: #2e2f42;}
+  --*/     
+.sec-a{background-color: #2e2f42;}*/
 
 .click{
         background-color: #4D5AE5;
@@ -406,8 +407,8 @@ text-decoration: none;}
 .sec-a{
         background-image: linear-gradient(rgba(46,47,66,0.7));
         background-image: url(/images/officebg1.jpg);
-        max-width: 144px;
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
+   
 }
