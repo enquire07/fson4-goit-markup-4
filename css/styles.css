@@ -404,6 +404,10 @@ text-decoration: none;}
 /*---homework4---*/
 
 .sec-a{
+        background-image: linear-gradient(rgba(46,47,66,0.7));
         background-image: url(/images/officebg1.jpg);
+        max-width: 144px;
+        background-repeat: no-repeat;
+        background-position: center;
         background-size: cover;
 }
